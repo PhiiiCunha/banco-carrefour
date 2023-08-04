@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banco-carrefour", "banco-carrefour\banco-carrefour.csproj", "{224C43A9-54D8-4A14-A5B7-45546F611236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224C43A9-54D8-4A14-A5B7-45546F611236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224C43A9-54D8-4A14-A5B7-45546F611236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224C43A9-54D8-4A14-A5B7-45546F611236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224C43A9-54D8-4A14-A5B7-45546F611236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {111C7FAC-7026-44D0-B0AD-539DCE19FD2B}
+	EndGlobalSection
+EndGlobal
